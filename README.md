@@ -2,7 +2,7 @@
 
 ## Instructions to build, run, or test the game:  
 
-Run the following commands from the directory with pom.xml using Apache Maven
+Install Apache Maven and run the following commands from the top directory (with pom.xml)
    
 Compile and run the game:  
 	Step 1:	mvn clean install  
